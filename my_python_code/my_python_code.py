@@ -1,3 +1,3 @@
-# import json
+import json
 
-print("This is a linter test.")
+print("Hello")
