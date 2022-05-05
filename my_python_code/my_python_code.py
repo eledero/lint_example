@@ -1,3 +1,4 @@
-# import json
+import json
 
-print("This is a linter test.")
+json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])
+print("Hello")
